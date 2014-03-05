@@ -1,0 +1,102 @@
+"es_es":{
+		"alert":{
+			"receiveupdates":"Mira las últimas actualizaciones aquí (Foro Oficial)",
+			"changed":"Esta página ha sido recientemente modificada, así que podría haber algunos problemas. Recarga la página si algo parece no funcionar bien."
+		},
+		"player":{
+			"header":"Jugador:",
+			"description":"(@a, @p, @r, o un jugador específico)"
+		},
+		"header":"Generador del comando Tellraw para Minecraft 1.7+",
+		"textsnippets":{
+			"notext":"No hay texto todavía",
+			"header":"Fragmento/s de Texto",
+			"nosnippets":"Aún no hay texto",
+			"addsnippet":"Añadir Texto ",
+			"editsnippet":"Editar",
+			"close":"Cerrar",
+			"text":"Texto:",
+			"format":{
+				"bold":"Negrita",
+				"italic":"Cursiva",
+				"underlined":"Subrayado",
+				"strikethrough":"Tachado",
+				"obfuscated":"Confuso"
+			},
+			"clickevent":{
+				"header":"Ejecutar al hacer clic:",
+				"runcommand":"Ejecutar comando",
+				"suggestcommand":"Introducir comando",
+				"openurl":"Abrir URL",
+				"none":"Nada"
+			},
+			"hoverevent":{
+				"header":"Acción al pasar el Puntero:",
+				"showtext":"Mostrar texo",
+				"showitem":"Mostrar item",
+				"showentity":"Mostrar entidad",
+				"showachievement":"Mostrar Logro",
+				"name":"Nombre:",
+				"id":"ID:",
+				"type":"Tipo:",
+				"none":"Nada"
+			},
+			"insertion":{
+				"header":"Insertar en Chat:",
+				"header_alt":"Insertar en Chat"
+			},
+			"warning":{
+				"title":"¡Cuidado!",
+				"text":"Necesitas %v para usar %f"
+			},
+			"insert":"Insertar",
+			"raw":"Texto Simple",
+			"trn":"Prediseñado",
+			"obj":"Logro",
+			"obj2":"Objetivo",
+			"player":"Jugador",
+			"parameter":"Parámetro"
+		},
+		"command":"Commando:",
+		"commandblock":"Tienes que ejecutar esto en la consola del servidor o en un bloque de comandos.",
+		"output":{
+			"header":"Vista Previa",
+			"nothing":"Nada todavía"
+		},
+		"color":{
+			"color_black":"Negro",
+			"color_dark_blue":"Azul Oscuro",
+			"color_dark_green":"Verde Oscuro",
+			"color_dark_aqua":"Aguamarina Oscuro",
+			"color_dark_red":"Rojo Oscuro",
+			"color_dark_purple":"Morado Oscuro",
+			"color_gold":"Oro",
+			"color_gray":"Gris",
+			"color_dark_gray":"Gris Oscuro",
+			"color_blue":"Azul",
+			"color_green":"Verde",
+			"color_aqua":"Aguamerina",
+			"color_red":"Rojo",
+			"color_light_purple":"Violeta",
+			"color_yellow":"Amarillo",
+			"color_white":"Blanco"
+		},
+		"settings":{
+			"header":"Configuración:",
+			"import":"Importar",
+			"importtext":"Introduzca el comando tellraw. Utiliza el botón de \"Eliminar Todo\" si no lo importa correctamente.",
+			"deleteall":{
+				"heading":"¿¿Estás seguro??",
+				"body":"\"Eliminar\" quitará todo el texto y lo sustituirá por una línea en blanco.",
+				"yes":"Eliminar Todo",
+				"no":"Cancelar"
+			},
+			"previewcolor":"Color de Vista Previa del Fondo:"
+		},
+		"language":{
+			"name":"Español",
+			"header":"Idioma",
+			"translate":"Traducir",
+			"credit":"Traducido por KaliNuska"
+		}
+	},
