@@ -1,3 +1,104 @@
+"en_us":{
+		"alert":{
+			"receiveupdates":"Receive updates here (\"Follow\" the topic)",
+			"changed":"This page was recently modified, so there might be problems. Reload the page if something doesn't seem to work."
+		},
+		"player":{
+			"header":"Player:",
+			"description":"(@a, @p, @r, or a specific player)"
+		},
+		"header":"Tellraw Generator for Minecraft 1.7+",
+		"textsnippets":{
+			"notext":"No Text",
+			"header":"Text Snippets",
+			"nosnippets":"No text yet",
+			"addsnippet":"Add Text",
+			"close":"Close",
+			"text":"Text:",
+			"format":{
+				"bold":"Bold",
+				"italic":"Italic",
+				"underlined":"Underlined",
+				"strikethrough":"Strikethrough",
+				"obfuscated":"Obfuscated"
+			},
+			"clickevent":{
+				"header":"Click Event:",
+				"runcommand":"Run Command",
+				"suggestcommand":"Suggest Command",
+				"openurl":"Open URL",
+				"none":"None"
+			},
+			"hoverevent":{
+				"header":"Hover Event:",
+				"showtext":"Show Text",
+				"showitem":"Show Item",
+				"showentity":"Show Entity",
+				"showachievement":"Show Achievement",
+				"name":"Name:",
+				"id":"ID:",
+				"type":"Type:",
+				"none":"None"
+			},
+			"insertion":{
+				"header":"Insertion:",
+				"header_alt":"Insertion"
+			},
+			"warning":{
+				"title":"Warning!",
+				"text":"You need %v to use %f"
+			},
+			"insert":"Insert",
+			"raw":"Raw",
+			"trn":"Translated",
+			"obj":"Scoreboard Objective",
+			"obj2":"Objective",
+			"player":"Player",
+			"parameter":"Parameter"
+		},
+		"command":"Command:",
+		"commandblock":"You must run this in the server console or in a command block.",
+		"output":{
+			"header":"Output Preview:",
+			"nothing":"Nothing to see here"
+		},
+		"color":{
+			"color_black":"Black",
+			"color_dark_blue":"Dark Blue",
+			"color_dark_green":"Dark Green",
+			"color_dark_aqua":"Dark Aqua",
+			"color_dark_red":"Dark Red",
+			"color_dark_purple":"Dark Purple",
+			"color_gold":"Gold",
+			"color_gray":"Gray",
+			"color_dark_gray":"Dark Gray",
+			"color_blue":"Blue",
+			"color_green":"Green",
+			"color_aqua":"Aqua",
+			"color_red":"Red",
+			"color_light_purple":"Light Purple",
+			"color_yellow":"Yellow",
+			"color_white":"White"
+		},
+		"settings":{
+			"header":"Settings:",
+			"import":"Import",
+			"importtext":"Please enter the tellraw command. Use the Delete All button if it incorrectly imports.",
+			"deleteall":{
+				"heading":"Are you sure!?!",
+				"body":"Clicking Delete will remove all your text and reset it to an empty string.",
+				"yes":"Delete All",
+				"no":"Cancel"
+			},
+			"previewcolor":"Preview Background Color:"
+		},
+		"language":{
+			"name":"English",
+			"header":"Language",
+			"translate":"Translate",
+			"credit":"Translated by Ezekiel"
+		}
+	},
 "es_es":{
 		"alert":{
 			"receiveupdates":"Mira las últimas actualizaciones aquí (Foro Oficial)",
